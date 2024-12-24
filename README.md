@@ -1,4 +1,4 @@
-# Sorting-Visualizer
+# Sortify: Visualising the Art of Sorting
 
 This is a sorting visualizer website  which helps to visualize these different sorting algorithms :
 1. Merge sort
